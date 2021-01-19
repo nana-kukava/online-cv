@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Nana Kukava
     tagline: Étudiante étrangère en droit du numérique
-    avatar: nana-kukava-profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: nana-kukava-profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: kukava412@gmail.com
@@ -66,6 +66,7 @@ career-profile:
       penatibus et magnis dis parturient montes, nascetur ridiculus mus.
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
+
 education:
     - degree: MSc in Computer Science
       university: University of London
@@ -89,6 +90,7 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
+
 experiences:
     - role: Lead Developer
       time: 2015 - Present
