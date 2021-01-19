@@ -14,13 +14,13 @@ sidebar:
     # Sidebar links
     email: kukava412@gmail.com
     phone: 06 25 35 93 35
-    website: nana-kukava.github.io #do not add http://
+    website: nana-kukava.github.io/online-cv #do not add http://
     linkedin: nana-kukava
     github: nana-kukava
     telegram: Nana_Kukava # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@kukava_nana'
+    twitter: kukava_nana
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -60,94 +60,78 @@ sidebar:
 career-profile:
     title: Description
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Bonjour ! Je suis Nana Kukava, née le 18 avril 1992 à Khobi en Géorgie. Vous trouverez sur cette page les informations nécessaires me concernant (formation, expérience professionnelle et compétences).
+      Actuellement, en première année en master droit du numérique à l'Université de Lille, je recherche un stage de fin d'années M1 de mi mai à fin août 2021.
+      
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Master 1 Droit du Numérique
+      university: Université de Lille
+      time: 2020 - aujourd'hui
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+        Parcours droit du cyberespace : technologies et innovations numériques
+    - degree: Licence 3 Droit classique
+      university: Université de Nanterre
+      time: 2019 - 2020
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Droit et sciences politiques
+    - degree: Certificat d'études de langue française
+      university: Etoile Institut de Langue
+      time: 2017 - 2018
+      details: |
+        Etablissement libre d'enseignement supérieur
+    - degree: Diplôme universitaire d'études françaises
+      university: Université de Caen
+      time: 2015 - 2017
+      details: |
+        Mention "assez bien"
+    - degree: Licence de droit
+      university: Université de Javaxishvili, Tbilissi, Géorgie
+      time: 2010 - 2015
+      details: |
+        Équivalent à un bac + 4 en France (240 ECTS)
+        Mention "très bien"
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Barista
+      time: 2018 - 2020
+      company: McDonald's, Paris 15e
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        Relation avec les clients au McCafé :
+          - Prise de commandes
+          - Fermeture
+          - Comptabilité
+          - Ménage
+    - role: Stagiaire administrative (2 mois)
+      time: 2015
+      company: Mairie de Khobi, Géorgie
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        Tâches suivantes :
+        - Aide administrative
+        - Accueil du public
+        - Participation à un projet de développement local
+    - role: Stagiaire en droit pénal (4 mois)
+      time: 2014
+      company: Cabinet d'avocats "OK et CG", Tbilissi, Géorgie
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Tâches suivantes :
+        - Recherches juridiques
+        - Gestion des dossiers de plaidoirie
+        - Veille juridique
+        - Participation aux consultations
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Compétences
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Capacité de synthèse
+        level: 80%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Capacité rédactionnelle
+        level: 80%
 
-      - name: Angular
-        level: 98%
+      - name: Raisonnement juridique
+        level: 90%
 
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Bureautique
+        level: 70%
