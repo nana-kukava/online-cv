@@ -7,42 +7,54 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Nana Kukava
+    tagline: Étudiante en droit du numérique
+    avatar: nana-kukava-profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
+    email: kukava412@gmail.com
+    phone: 06 25 35 93 35
+    website: nana-kukava.github.io #do not add http://
+    linkedin: nana-kukava
+    github: nana-kukava
+    telegram: Nana_Kukava # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@kukava_nana'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: English
-        level: Native
+      - idiom: 🇫🇷 Français
+        level: Bilingue (C2)
 
-      - idiom: French
-        level: Professional
+      - idiom: 🇬🇧 Anglais
+        level: Professionnel (B2)
 
-      - idiom: Spanish
-        level: Professional
+      - idiom: 🇷🇺 Russe
+        level: Notions (B1)
+
+      - idiom: 🇬🇪 Géorgien
+        level: Langue maternelle
 
     interests:
-      - item: Climbing
+      - item: 💡 Philosophie
         link:
 
-      - item: Snowboarding
+      - item: 🏺 Histoire
         link:
 
-      - item: Cooking
+      - item: 🗣️ Langues
+        link:
+
+      - item: 🇫🇷 Culture française
+        link:
+
+      - item: 🎹 Musique classique
+        link:
+
+      - item: 🏃‍♀️ Sport
         link:
 
 career-profile:
